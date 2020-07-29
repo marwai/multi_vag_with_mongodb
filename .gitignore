@@ -4,5 +4,4 @@ venv
 .vagrant/ 
 .vagrant 
 /vagrant 
-.mongoose/
-.mongoose
+
