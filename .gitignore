@@ -4,4 +4,4 @@ venv
 .vagrant/ 
 .vagrant 
 /vagrant 
-
+.app/
